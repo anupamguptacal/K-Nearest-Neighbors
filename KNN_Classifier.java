@@ -3,7 +3,7 @@
  * Each Data-point contains 13 features and a single label
  * The Training File Path, testing file path and output file path can be specified in the global variables
  *
- * @aythor Anupam Gupta (21CS91P04) - Assignment 2
+ * @aythor Anupam Gupta
  * No specific flags are needed to run this code.
  * Each java class has a main() function and in this case as well, we just need to run the main() function.
  */
