@@ -1,4 +1,4 @@
-# K_Nearest_Neighbours
+# K_Nearest_Neighbors
 This project showcases a Java Implementation of K Nearest Neighbors algorithm on Medical Data aimed at determining the possibility of heart disease in an individual based on previously seen data. The code, is currently hardcoded to use the value of K as 5 and takes in a training data file, a test data file (both in csv) and an output file as inputs, which can be specified as hardcoded variables in the code. This specific implementation is built on a data set that contains 13 data markers (attributes) to describe the health status of an individual: 
 
 - age - Integer
